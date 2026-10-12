@@ -1,8 +1,0 @@
-PLAYROOM 2.9 — Offline edition
-
-1. Extract this ZIP using your device Files app.
-2. Open the extracted index.html in Chrome (if your device allows local HTML files).
-3. Keep the CSS, JS and assets folder beside index.html.
-4. Built-in games and study tools are designed to work without internet.
-5. Browser, YouTube, TikTok and external search require internet and may not work offline.
-6. On managed Chromebooks, local file access may be restricted; follow your school device policies.
