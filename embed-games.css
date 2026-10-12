@@ -1,0 +1,14 @@
+.fastlane-hero,.fastlane-art{background:radial-gradient(circle at 75% 22%,#5d39a0 0%,transparent 45%),linear-gradient(135deg,#15152e,#252052 60%,#15182b);position:relative}.fastlane-hero::before{content:'🏎️';position:absolute;font-size:clamp(70px,12vw,160px);top:18%;left:35%;filter:drop-shadow(0 15px 20px #080818)}.fastlane-art{display:grid;place-items:center}.fastlane-symbol{font-size:75px;filter:drop-shadow(0 12px 20px #07070b)}.embedded-game-holder{width:100%;margin:0 auto}.embedded-game-holder iframe{width:100%;height:min(72vh,680px);min-height:420px;display:block;border:0;border-radius:10px;background:#090d1b}.embed-credit{font-size:12px;color:#aeb7cd;margin:10px 4px}.embed-credit a{color:#bcaaff}.modal-panel{width:min(1100px,96vw);max-width:1100px}
+.survival-art{background:radial-gradient(circle at 75% 20%,#3b8f67 0%,transparent 48%),linear-gradient(140deg,#0c2d29,#184b3c 65%,#0a1723);display:grid;place-items:center;position:relative}.survival-symbol{font-size:75px;filter:drop-shadow(0 12px 20px #070d0b)}
+
+.snake-art{background:radial-gradient(circle at 75% 20%,#28694d 0%,transparent 48%),linear-gradient(140deg,#0c2724,#155a40 65%,#0a1723);display:grid;place-items:center;position:relative}.snake-symbol{font-size:75px;filter:drop-shadow(0 12px 20px #070d0b)}
+
+.alchemy-art{background:radial-gradient(circle at 75% 20%,#90672b 0%,transparent 48%),linear-gradient(140deg,#27201a,#64452d 65%,#171622);display:grid;place-items:center;position:relative}.alchemy-symbol{font-size:75px;filter:drop-shadow(0 12px 20px #160f09)}
+.wg-art{background:radial-gradient(circle at 70% 20%,#335b91,transparent 55%),linear-gradient(140deg,#15172c,#25264d);display:grid;place-items:center;min-height:150px}.wg-symbol{font-size:68px}.catalog-status{color:#aeb7cd;font-size:13px;margin:12px 0}.game-card[hidden]{display:none!important}
+
+/* Curated static game library cards */
+.curated-art{background:radial-gradient(circle at 45% 40%,color-mix(in srgb,var(--accent) 35%,transparent),transparent 65%),linear-gradient(145deg,#121c38,#0d1126);display:flex;justify-content:center;align-items:center;position:relative}
+.curated-symbol{font-size:clamp(50px,7vw,88px);filter:drop-shadow(0 12px 22px #0007);transition:transform .2s ease}
+.curated-card:hover .curated-symbol{transform:scale(1.12) rotate(-3deg)}
+.game-card[hidden]{display:none!important}
+.catalog-status{color:#b6c6e6;font-size:13px;margin:2px 0 18px}
